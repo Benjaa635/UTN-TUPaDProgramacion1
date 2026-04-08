@@ -3,7 +3,8 @@ Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
 ✨ Estudiante
-Nombre: Provera, Benjamin
+Nombre: Provera Rocha, Benjamin
 Comisión: M2025-14 
+
 📂 Descripción del Repositorio
 Este repositorio almacena los archivos referentes a los ejercicios de la unidad 3 de programacion 1.
